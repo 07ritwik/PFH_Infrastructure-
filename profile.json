@@ -1,0 +1,66 @@
+{
+  "name": "Ritwik Murugesh",
+  "title": "Windchill PLM Developer & Administrator",
+  "tagline": "Master's Student | Computer Science for Business AI Management",
+  "contact": {
+    "email": "Ritwikmurugesh07@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ritwik-murugesh-77a843168/",
+    "location": "Göttingen, Germany"
+  },
+  "about": [
+    "Windchill PLM professional with about four years of experience in customization, administration, lifecycle management and workflow implementation for enterprise clients.",
+    "Currently pursuing a Master's degree in Computer Science for Business AI Management at PFH while building expertise in modern software engineering and AI technologies."
+  ],
+  "skills": [
+    { "category": "PLM", "items": ["Windchill PDMLink 11.x", "Windchill 12.0"] },
+    { "category": "Programming", "items": ["Java", "JavaScript", "SQL", "HTML", "CSS"] },
+    { "category": "Customization", "items": ["Data Utilities", "Validators", "Listeners", "Custom Actions", "Form Processors", "Table Builders"] },
+    { "category": "Administration", "items": ["ACL", "OIR", "Workflows", "Lifecycles", "Change Management", "User and Role Management"] }
+  ],
+  "experience": [
+    {
+      "company": "Capgemini",
+      "role": "Windchill PLM Consultant",
+      "period": "August 2022 to 2026",
+      "projects": [
+        {
+          "name": "BMW Project",
+          "focus": "Windchill customization, approx. 2.8 years",
+          "highlights": [
+            "Developed Windchill customizations using Java and JavaScript.",
+            "Built validators, listeners and custom actions.",
+            "Implemented a BOM check-in listener that protects data consistency in the product structure.",
+            "Worked on user stories, fixed defects and performed data-loading activities."
+          ]
+        },
+        {
+          "name": "Tag Heuer Project",
+          "focus": "Windchill administration and configuration, approx. 5 months",
+          "highlights": [
+            "Windchill administration and support.",
+            "User, role and access management.",
+            "Workflow and lifecycle configuration.",
+            "Change Notice and Change Activity implementation, including a custom numbering sequence."
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "PFH Private University of Applied Sciences",
+      "degree": "Master's in Computer Science for Business AI Management",
+      "period": "October 2026 to expected 2028"
+    },
+    {
+      "institution": "Chennai Institute of Technology",
+      "degree": "B.E. Computer Science & Engineering",
+      "period": "2018 to 2022"
+    }
+  ],
+  "languages": [
+    { "language": "English", "level": "IELTS 6.5" },
+    { "language": "German", "level": "Beginner, currently learning" }
+  ],
+  "footer": "© 2026 Ritwik Murugesh. All Rights Reserved."
+}
